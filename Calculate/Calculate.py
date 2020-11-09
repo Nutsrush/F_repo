@@ -1,7 +1,11 @@
 import tkinter as tk
 
+
 def main():
     pass
 
-if __name__ == "__main__":
+class Calculate():
     pass
+
+if __name__ == "__main__":
+    main()
